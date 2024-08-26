@@ -29,7 +29,8 @@ Besides, for different languages, we have different ways to realize hooks.
         rm <venv_name> -rf
 
 2. Set up the hooks with the pre-commit package:
-    Install the packages written in "requirements.txt" which contains the "pre-commit" package
+    We can enter the virtual envirment,
+    and install the packages written in "requirements.txt" which contains the "pre-commit" package
         pip install -r requirements.txt
     Note that the current directory should have "requirements.txt" to be installed.
 
