@@ -1,6 +1,6 @@
 import asyncio
 
-
+a=1
 async def main():
     print("hello")
     await asyncio.sleep(1)
